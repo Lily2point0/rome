@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "apifonica": "0.0.2",
+    "date-and-time": "^0.5.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.1",
+    "google-tts-api": "0.0.2",
+    "jsonwebtoken": "^8.0.1",
+    "needle": "^2.0.1",
+    "node-ical": "^0.5.4",
+    "nodemailer": "^4.1.1",
+    "project-name": "*",
+    "slackbots": "^1.1.0",
+    "ttsmp3": "^1.0.1"
+  }
+}
